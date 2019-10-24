@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap: https://lucaseduardodev.github.io/sitemap.xml
